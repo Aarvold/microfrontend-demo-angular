@@ -1,0 +1,16 @@
+ul {
+    padding: 2rem;
+    background-color: burlywood;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    list-style: none;
+    display: flex;
+}
+
+li {
+    color: white;
+    padding: 0 2rem;
+
+    a {
+        text-decoration: none;
+    }
+}
